@@ -1,4 +1,4 @@
-Estrutura para sites
+Estrutura padrão de site
 =============
 É importante manter um padrão para que todos os profissionais da área possa realizar alterações sem dificuldades.
 
@@ -12,7 +12,8 @@ Pasta docs - Documentação em geral do seu projeto que possa ajudar em algum mo
 
 Pasta fonts - Além do Google Fonts você também pode usar outras fontes. Todas devem ficar nesta pasta.
 
-Pasta images - Todas as imagens devem ficar nessa pasta, você pode criar subpastas para melhor organização.
+Pasta images - Todas as imagens devem ficar nessa pasta, você pode criar subpastas para melhor organização. Támbem pode ser 
+utilizada dentro da pasta assets.
 
 Pasta inc - Estruturas que irão se repetir em todas as páginas como por exemplo menu e rodapé.
 
