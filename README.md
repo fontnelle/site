@@ -11,7 +11,7 @@ Pasta assets - Essa pasta é um repositório para ferramenta, nela inserimos as 
 
 Pasta docs - Documentação em geral do seu projeto que possa ajudar em algum momento.
 
-Pasta fonts - Além do Google Fonts você também pode usar outras fontes. Todas devem ficar nesta pasta. fonts.google.com
+Pasta fonts - Além do Google Fonts você também pode usar outras fontes. Todas devem ficar nesta pasta. http://fonts.google.com
 
 Pasta images - Todas as imagens devem ficar nessa pasta, você pode criar subpastas para melhor organização. Támbem pode ser 
 utilizada dentro da pasta assets exemplo: (assets/img), facilitando a organização.
