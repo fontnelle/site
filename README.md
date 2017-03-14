@@ -1,22 +1,23 @@
 Estrutura padrão de site
 =============
-É importante manter um padrão para que todos os profissionais da área possa realizar alterações sem dificuldades.
+Buscando cada vez mais criar pradões de desenvolvimento esse projeto tem por base estruturar de maneira prática e
+seguindo um padrão utilizado pelos principais devs do Brasil.
 
 index.php - Esse é o primeiro arquivo que seu navegador vai acessar. Ele deve conter todas as ligações do site.
 
-favicon.ico - São pequenas imagens que ficam guardadas para visualização pelo navegador.
+favicon.ico - São pequenas imagens que ficam guardadas para visualização pelo navegador, facilitam principalmente a busca quando favoritamos uma página.
 
 Pasta assets - Essa pasta é um repositório para ferramenta, nela inserimos as pasta de css, js entre outros...
 
 Pasta docs - Documentação em geral do seu projeto que possa ajudar em algum momento.
 
-Pasta fonts - Além do Google Fonts você também pode usar outras fontes. Todas devem ficar nesta pasta.
+Pasta fonts - Além do Google Fonts você também pode usar outras fontes. Todas devem ficar nesta pasta. fonts.google.com
 
 Pasta images - Todas as imagens devem ficar nessa pasta, você pode criar subpastas para melhor organização. Támbem pode ser 
-utilizada dentro da pasta assets.
+utilizada dentro da pasta assets exemplo: (assets/img), facilitando a organização.
 
-Pasta inc - Estruturas que irão se repetir em todas as páginas como por exemplo menu e rodapé.
+Pasta inc - Estruturas que irão se repetir em todas as páginas como por exemplo topo do site e rodapé.
 
-Dúvidas?
+Dúvidas e Sugestões?
 ===============
-Entre em contato [http://johnsonvieira.com.br](www.johnsonvieira.com.br)
+Entre em contato [http://fontenele.designer](www.fontenele.design)

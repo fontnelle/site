@@ -1,7 +1,8 @@
 <!--
 
-	Autor: @johnsonvieira
-	wwww.johnsonvieira.com.br
+
+	Autor: @fontnelle
+	wwww.fontenele.design
 
 
 -->
@@ -17,7 +18,7 @@
 	<!-- meta -->
 	<meta name="description" content="descrição do seu site">
 	<meta name="keywords" content="HTML,CSS">
-	<meta name="author" content="Johnson Vieira - @johnsonvieira">
+	<meta name="author" content="João Henrique - @fontnelle">
 
 	<!-- fonte -->
 
