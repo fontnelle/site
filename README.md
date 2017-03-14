@@ -20,4 +20,4 @@ Pasta inc - Estruturas que irão se repetir em todas as páginas como por exempl
 
 Dúvidas e Sugestões?
 ===============
-Entre em contato [http://fontenele.designer](www.fontenele.design)
+Entre em contato [http://fontenele.design](www.fontenele.design)
