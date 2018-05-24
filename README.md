@@ -20,4 +20,4 @@ Pasta inc - Estruturas que irão se repetir em todas as páginas como por exempl
 
 Dúvidas e Sugestões?
 ===============
-Entre em contato [http://joao.bsb.br](www.joao.bsb.br)
+Entre em contato <a href="http://www.joao.bsb.br" target="_blank">joao.bsb.br</a>
